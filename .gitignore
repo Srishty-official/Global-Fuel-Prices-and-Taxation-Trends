@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local runtime database (the app will automatically create and seed it from data/fuel_prices.csv on first launch!)
+# fuel_prices.db
