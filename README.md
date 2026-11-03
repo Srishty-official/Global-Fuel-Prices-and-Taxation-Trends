@@ -221,3 +221,6 @@ GET /api/audit
 
 ## 7. License & Academic Attribution
 Developed for educational data analytics, fullstack web development, and business intelligence coursework. Observation data is harmonized from OECD Energy Statistics, IEA Fuel Price Reports, and World Bank Indicators.
+
+AUTHOR
+**SRISHTY CHATTERJEE**
