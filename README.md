@@ -197,7 +197,11 @@ GET /api/audit
   "pandas_available": true
 }
 ```
+Project Links
 
+Tableau Dashboard: https://public.tableau.com/app/profile/srishty.chatterjee/viz/GlobalFuelPrices_17937226629670/Dashboard1?publish=yes
+Project Presentation Video: https://drive.google.com/drive/my-drive
+Project Overvie
 ---
 
 ## 6. Project Flow & Verification Checklist
